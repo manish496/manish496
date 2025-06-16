@@ -19,8 +19,6 @@ I love the entire process of solving complex business problems leveraging data &
 - My Portfolio projects
 - My Certifications
 - My Website
-- My next blog
-
 
 ## 🌱 I'm currently learning
 
