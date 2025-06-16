@@ -1,5 +1,5 @@
 
-I'm <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer">Manish </a> 👋
+I'm <a href="https://www.linkedin.com/in/manish-%E2%80%8Earkasali-4245781b8/" target="_blank" rel="noreferrer">Manish </a> 👋
 </h1>
 
 <h2 align="center">
