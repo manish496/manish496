@@ -54,21 +54,3 @@ I love the entire process of solving complex business problems leveraging data &
 ![Laptop](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
 
 
-
-
-
-## 📈 GitHub Stats 
-
-<p align="left">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=tushar2704&theme=prussian&show_icons=true" />
-  <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2704&count_private=true&theme=prussian" />
-
-</p>
-
-<img width="70%" src="https://github-profile-trophy.vercel.app/?username=tushar2704&theme=prussian" />
-<br>
-
-<p ">
-<img align="left" width="50%" height="110%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar2704"/>
-<img  align="right" width="40%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar2704&hide_border=true" />
-</p>
