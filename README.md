@@ -28,12 +28,11 @@ I also do a freelance project showcasing my abilities
 - Cloud
 
 ## My Projects
-<a href="https://horosscope.vercel.app/"/>Horoscope</a>
+<a href="https://horosscope.vercel.app/"/>Horoscope</a> This website collects astrological information and produces png images 
 
 ## 💼 Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![WINDOWS TERMINAL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![MS OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
