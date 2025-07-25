@@ -29,7 +29,7 @@ I also do a freelance project showcasing my abilities
 
 ## My Projects
 <a href="https://horosscope.vercel.app/"/>Horoscope</a> 
-TThis web application, built with React, HTML, and CSS, allows users to input astrological information and receive a personalized horoscope presented as a PNG image. The project involved developing a forms to handle user inputs, process data, and dynamically render information, showcasing proficiency in modern web data representation."
+This web application, built with React, HTML, and CSS, allows users to input astrological information and receive a personalized horoscope presented as a PNG image. The project involved developing a forms to handle user inputs, process data, and dynamically render information, showcasing proficiency in modern web data representation."
 
 ## 💼 Technical Skills
 
