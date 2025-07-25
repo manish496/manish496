@@ -28,7 +28,7 @@ I also do a freelance project showcasing my abilities
 - Cloud
 
 ## My Projects
-the Horoscope web app (horosscope.vercel.app/)
+the Horoscope web app <a href="https://horosscope.vercel.app/"/>
 
 ## 💼 Technical Skills
 
